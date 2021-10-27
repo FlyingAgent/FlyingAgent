@@ -11,8 +11,8 @@ I'm a German discord bot developer. I love programming threw discord and I use J
 - 💬 If you need to contact me DM me on discord **FlyingAgent#0652**
 - 🔗 Website coming soon ;D
 
-<h3> My projects </h3>
-<p>🔒 Secret</p>
+## My projects 
+- 🔒 Secret
 
 ## 📊 My Github Stats
 
