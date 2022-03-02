@@ -3,14 +3,11 @@
 ---
 ## 🧑‍💻About Me
 
-- 💻 I’m a Discord-Bot Developer
-- 🧑‍💻 If you need Coding-Support join https://discord.gg/melion
+- 💻 IT-Administrator
 - 🔐 Most of my projects are not public
-- 💬 If you need to contact me DM me on discord **FlyingAgent#0652**
+- ⬇️ All you need to know about me
 - 🔗 https://flyingagent.ml
 
-## 📁My projects 
-- 🔒 Secret
 
 ## 📊 My Github Stats
 
