@@ -1,14 +1,6 @@
 ## 👋 Hey! I’m @FlyingAgent
 
 ---
-## 🧑‍💻About Me
-
-- 💻 IT-Administrator
-- 🔐 Most of my projects are not public
-- ⬇️ All you need to know about me
-- 🔗 https://flyingagent.ml
-
-
 ## 📊 My Github Stats
 
   <br/>
